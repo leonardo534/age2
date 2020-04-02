@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">age2</string>
+    <string-array name="civilization">
+        <item>Select Item</item>
+        <item>Aztecs</item>
+        <item>Britons</item>
+        <item>Bizantines</item>
+        <item>Celts</item>
+        <item>Chinese</item>
+        <item>Franks</item>
+        <item>Goths</item>
+        <item>Huns</item>
+        <item>Japanese</item>
+        <item>Koreans</item>
+        <item>Mayans</item>
+        <item>Mongols</item>
+        <item>Persians</item>
+        <item>Saracens</item>
+        <item>Spanish</item>
+        <item>Teutons</item>
+        <item>Turks</item>
+        <item>Vikings</item>
+    </string-array>
+</resources>
